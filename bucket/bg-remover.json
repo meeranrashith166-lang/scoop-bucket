@@ -5,7 +5,7 @@
     "license": "Freemium",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/meeranrashith166-lang/BG-Remover/releases/download/v6.0.0/BG_Remover_Setup.exe",
+            "url": "https://huggingface.co/meeranrashith166/BG-Remover-Updates/resolve/main/BG_Remover_Setup.exe",
             "hash": "bd1168f36a5d879bd0ffe719e4d93f063d3afe74cc69feeccf84ca36ba257953"
         }
     },
